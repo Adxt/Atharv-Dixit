@@ -1,0 +1,62 @@
+.navbar-brand{
+    font-size: 32px;
+    
+}
+#title{
+    background-color: #454545;
+    padding: 0% 10%;
+}
+.row{
+    padding: 5% 0px;
+}
+.navbar-brand{
+    font-family:'Montserrat',sans-serif;
+}
+.nav-item{
+    font-size: 20px;
+    padding: 0px 5px;
+}
+.nav-link{
+    color: #fff;
+}
+h1{
+    font-size: 90px;
+}
+.buttn{
+    padding: 5% 0px;
+}
+.down-button{
+    margin: 5% 3% 5% 0;
+}
+.app-img{
+    width: 70%;
+    margin:0px 20px 0px 88px;
+}
+#features{
+    padding: 7% 15%;
+    background-color: #343a40;
+}
+.feat{
+    text-align: center;
+    padding: 4% 0px;
+}
+h2{
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 3rem;
+}
+h3{
+    font-family:'Montserrat';
+}
+
+#foot{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+.skill-data{
+    text-align: center;
+}
+.fo{
+    font-size: 1.5em;
+}
